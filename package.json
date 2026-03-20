@@ -1,0 +1,20 @@
+{
+  "name": "testimonials-grid-section-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Testimonials grid section coding challenge](./preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "depoy": "vercel --prod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "vercel": "^50.34.2",
+    "vite": "^8.0.1"
+  }
+}
